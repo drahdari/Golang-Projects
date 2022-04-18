@@ -1,3 +1,5 @@
+This Repo belongs to Danial Rahdari.
+
 In this Repository I have shared some of my Golang programs.
 
 Right now on Apr 18th there are two main programs as below:
